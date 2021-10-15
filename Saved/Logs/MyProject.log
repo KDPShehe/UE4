@@ -843,3 +843,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.15-16.55.59:638][617]LogSavePackage: Moving '../../../../../../Users/KDPS/Documents/Unreal Projects/MyProject/Saved/NewBlueprint696339814BE5CB62AAF9E19D5B6DDEC4.tmp' to '../../../../../../Users/KDPS/Documents/Unreal Projects/MyProject/Content/StarterContent/Blueprints/NewBlueprint.uasset'
 [2021.10.15-16.55.59:647][617]AssetCheck: New page: Asset Save: NewBlueprint
 [2021.10.15-16.55.59:647][617]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
+[2021.10.15-17.42.35:497][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.10.15-17.42.36:390][376]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.15-17.42.36:446][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.15-17.42.36:453][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.15-17.42.36:456][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.15-17.42.37:188][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
