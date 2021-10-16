@@ -808,3 +808,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.16-15.05.21:001][774]LogSavePackage: Moving '../../../../../../Users/KDPS/Documents/Unreal Projects/MyProject/Saved/NewBlueprint3DF56902421795B0ABA47899574AA0D3.tmp' to '../../../../../../Users/KDPS/Documents/Unreal Projects/MyProject/Content/StarterContent/Blueprints/NewBlueprint.uasset'
 [2021.10.16-15.05.21:011][774]AssetCheck: New page: Asset Save: NewBlueprint
 [2021.10.16-15.05.21:011][774]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
+[2021.10.16-15.10.09:838][679]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/KDPS/Documents/Unreal Projects/MyProject/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.10.16-15.10.10:174][680]LogFileManager: Warning: DeleteFile recovered during retry!
