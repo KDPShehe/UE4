@@ -810,3 +810,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.16-15.05.21:011][774]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
 [2021.10.16-15.10.09:838][679]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/KDPS/Documents/Unreal Projects/MyProject/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
 [2021.10.16-15.10.10:174][680]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.10.16-15.11.06:437][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.16-15.11.07:588][ 76]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.16-15.11.07:683][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.16-15.11.07:692][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.16-15.11.07:695][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.16-15.11.08:383][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
